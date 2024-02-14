@@ -1,3 +1,5 @@
+![header_gif](https://github.com/erencagsak/ErenCagsak/assets/72644593/e9c681c8-7469-4614-a01f-ffc3af33300a)
+
 <h1 align="center">Hi 👋, I'm Eren Taha ÇAĞŞAK</h1>
 <h3 align="center">A Game Developer from Türkiye</h3>
 
